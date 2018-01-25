@@ -1,2 +1,2 @@
 # hello-world
-Testing github
+Some sample text here.
